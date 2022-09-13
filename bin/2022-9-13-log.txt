@@ -1,0 +1,2 @@
+18-19-27==>[info]service_name:FiendServiceRpc
+18-19-27==>[info]method_name:GetFriendsList
